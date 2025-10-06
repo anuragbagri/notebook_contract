@@ -1,0 +1,3 @@
+### contract
+contract of simple note taking application using anchor , deployed on solana devnet... 
+access application at - 
